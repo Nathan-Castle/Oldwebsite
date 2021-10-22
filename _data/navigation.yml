@@ -6,13 +6,9 @@ main:
     url: /index.html
   - title: "About"
     url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Journey"
+    url: /journey/
   - title: "Resume"
-    url: /assets/docs/resume-kbosko.pdf  
+    url: /resume/  
   - title: "Certificates"
     url: /certificates/
-  - title: "Achievements"
-    url: /achievements/
-  - title: "Archive"
-    url: /year-archive/
