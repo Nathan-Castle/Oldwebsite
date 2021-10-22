@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Castle"
-  avatar           : "/assets/images/soccer.jpg"
+  avatar           : "/assets/images/profile/soccer.jpg"
   bio              : "My data journey"
   location         : "Vancouver, BC"
   email            :
