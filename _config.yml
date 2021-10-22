@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cross-Validated"
+title                    : "Nathan Castle"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Katerina Bosko, PhD"
-description              : "Blogging about my transition into Data Science + HOWTOs on Minimal Mistakes Jekyll personal website"
-port                     : 4000
-host                     : "0.0.0.0"
-url                      : https://www.cross-validated.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Nathan Castle"
+description              : "My personal blog/website to showcase my journey into the data world."
+port                     : # 4000
+host                     : # "0.0.0.0"
+url                      : # https://www.cross-validated.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/joel-filipe-thumb-800.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
