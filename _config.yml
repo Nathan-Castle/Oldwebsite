@@ -34,7 +34,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus #"disqus" #false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : cross-validated # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # cross-validated # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : #https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 # , e.g.: meta.discourse.org
   facebook               : #https://developers.facebook.com/docs/plugins/comments
@@ -76,14 +76,14 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : SYD0JgIlJwQXb6L6lDyBaRuknpto7FAtNLQEM7RqswU
+google_site_verification : # SYD0JgIlJwQXb6L6lDyBaRuknpto7FAtNLQEM7RqswU
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "kbosko3"
+  username               : # "kbosko3"
 facebook:
   username               :
   app_id                 :
