@@ -88,7 +88,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/cross-val-logo-v4.jpg # Open Graph/Twitter default site image
+og_image                 : # /assets/images/cross-val-logo-v4.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -98,40 +98,40 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "custom"
+  provider               : #google-gtag # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-147237792-1
-    anonymize_ip         : false # false (default)
-    optimize_id          : GTM-WV93XGT
-    allow_google_signals : false
+    tracking_id          : #UA-147237792-1
+    anonymize_ip         : #false # false (default)
+    optimize_id          : #GTM-WV93XGT
+    allow_google_signals : #false
 
 
 # Site Author
 author:
-  name             : "Katerina Bosko, PhD"
-  avatar           : "/assets/images/kbosko-color-small.jpg"
-  bio              : "Data Scientist with background in Social Sciences"
-  location         : "San Francisco Bay Area (CA)"
+  name             : "Nathan Castle"
+  avatar           : "/assets/images/soccer.jpg"
+  bio              : "My data journey"
+  location         : "Vancouver, BC"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kbosko@cross-validated.com
+      url: mailto:castlenathan07@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kbosko3"
+      # url: "https://twitter.com/kbosko3"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k-bosko/"
+      url: "https://github.com/Nathan-Castle"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/k-bosko/"
+      url: "https://www.linkedin.com/in/nathancastle/"
 
 # Site Footer
 # footer:
