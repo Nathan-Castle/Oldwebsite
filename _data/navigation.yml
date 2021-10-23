@@ -1,14 +1,14 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: /index.html
   - title: "About"
     url: /about/
-  - title: "Journey"
-    url: /journey/
+#  - title: "Journey"
+#    url: /journey/
   - title: "Resume"
     url: /resume/  
-  - title: "Certificates"
-    url: /certificates/
+#  - title: "Certificates"
+#    url: /certificates/
