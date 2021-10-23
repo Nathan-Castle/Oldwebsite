@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Castle"
-  avatar           : "/assets/images/profile/soccersmall.jpg"
+  avatar           : "/assets/images/profile/soccersmallscale.jpg"
   bio              : "Finance Analyst in FinTech and aspiring Data Scientist"
   location         : "Vancouver, BC"
   email            :
