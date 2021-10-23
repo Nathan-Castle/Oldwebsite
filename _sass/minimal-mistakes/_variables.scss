@@ -50,7 +50,7 @@ $type-size-8: 0.625em !default; // ~10px
    ========================================================================== */
 
 $gray: #7a8288 !default;
-$dark-gray: mix(#000, $gray, 40%) !default;
+$dark-gray: mix(#000, $gray, 50%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
@@ -59,7 +59,7 @@ $background-color: #fff !default;
 $code-background-color: rgba(220, 220, 220, .5) !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 35%) !default;
+$muted-text-color: mix(#fff, $text-color, 20%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
@@ -104,7 +104,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $gray, 15%) !default;
+$link-color: mix(#000, $gray, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
@@ -113,6 +113,7 @@ $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
 /* $base00: #002635 !default; */
+/* Original Code
 $base00: #263238 !default;
 $base01: #2e3c43 !default;
 $base02: #314549 !default;
@@ -129,6 +130,25 @@ $base0c: #89ddff !default;
 $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
+*/
+
+/* Dark syntax added */
+$base00: #ffffff;
+$base01: #e0e0e0;
+$base02: #d0d0d0;
+$base03: #b0b0b0;
+$base04: #000000;
+$base05: #101010;
+$base06: #151515;
+$base07: #202020;
+$base08: #ff0086;
+$base09: #fd8900;
+$base0a: #aba800;
+$base0b: #00c918;
+$base0c: #1faaaa;
+$base0d: #3777e6;
+$base0e: #ad00a1;
+$base0f: #cc6633;
 
 /*
    Breakpoints
