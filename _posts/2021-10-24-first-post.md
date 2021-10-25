@@ -3,16 +3,16 @@ title: "Personal Website!"
 header:
   teaser: /assets/images/thumbnails/my-website-thumb-400.jpg
 excerpt: "Process and reason for creating this website."
-date: October 23, 2021
+date: October 24, 2021
 ---
 
 # Hi this is my first post! 
-On this website I plan to showcase my journey in transitioning from a non-technial business student into the data world. 
+On this website I plan to showcase my journey into the data world.  
 
-```
-Module[{},
+```{blue}
+gulp.task('html', () => {
+}
   Sqrt[2]
   4
 ]
 ```
-Did this work? 
